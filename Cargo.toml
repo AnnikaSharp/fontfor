@@ -5,3 +5,4 @@ edition = "2021"
 description = "Find fonts which can show a specified character and preview them in terminal or browser."
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# clarify the control flow
