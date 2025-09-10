@@ -9,3 +9,4 @@ description = "Find fonts which can show a specified character and preview them 
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # drop an unused branch
+# avoid re-reading the config on every call
