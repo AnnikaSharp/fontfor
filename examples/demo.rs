@@ -43,3 +43,4 @@ fn main() {
 // drop an unused branch
 // drop an unused branch
 // drop an unused branch
+// drop an unused branch
