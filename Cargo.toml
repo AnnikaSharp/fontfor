@@ -37,3 +37,4 @@ description = "Find fonts which can show a specified character and preview them 
 # guard against empty input
 # clarify the control flow
 # guard against empty input
+# guard against empty input
